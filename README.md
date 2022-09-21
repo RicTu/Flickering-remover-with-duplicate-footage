@@ -17,15 +17,15 @@ The flickering happens when the sampling frequency is mismatched with the artifi
 
 
 ## The flowchart of the duplicate method
-<img src="Figures/flowchart.png" height="150">
+<img src="Figures/flowchart.png" height="100">
 
 
 ## Result
 * Original footage
-<img src="Figures/illstrate_flickering_org.png" height="150">
+<img src="Figures/illstrate_flickering_org.png" height="100">
 
 * New footage
-<img src="Figures/illstrate_flickering_dup.png" height="150">
+<img src="Figures/illstrate_flickering_dup.png" height="100">
 
 ## Conclusion
 * The duplicate method is a very simple and efficient approach to remove the video flickering
