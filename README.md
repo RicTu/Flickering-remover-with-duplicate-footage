@@ -30,7 +30,7 @@ The flickering happens when the sampling frequency is mismatched with the artifi
 ## Conclusion
 * The duplicate method is a very simple and efficient approach to remove the video flickering
 * This method will introduce blur to the footage, especially the object with high-speed movement
-* If your scene is complex or contains high-speed motion, I will recommend you to try other advanced method
+* If your scene is complex or contains high-speed motion, I will recommend you to try other advanced methods
 
 
 ## Reference
