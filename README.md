@@ -6,7 +6,7 @@ This project introduce a efficient method to remove the video flickering.
 Video flickering is a phenomenon that has an impact on video quality.
 The flickering happens when the sampling frequency is mismatched with the artificial lighting source
 * Illustrate the FPS and artificial lighting source
-<img src="Figure/flickering.png" height="300">
+<img src="Figures/flickering.png" height="150">
 
 
 ## How this project work
@@ -17,10 +17,15 @@ The flickering happens when the sampling frequency is mismatched with the artifi
 
 
 ## The flowchart of the duplicate method
-
+<img src="Figures/flowchart.png" height="150">
 
 
 ## Result
+* Original footage
+<img src="Figures/illstrate_flickering_org.png" height="150">
+
+* New footage
+<img src="Figures/illstrate_flickering_dup.png" height="150">
 
 ## Conclusion
 * The duplicate method is a very simple and efficient approach to remove the video flickering
